@@ -24,8 +24,7 @@ With this power, Kiro can investigate production behavior directly from your IDE
 ### Prerequisites
 
 1. **New Relic Account**: Access to a New Relic account
-2. **New Relic API Key**: User API key and account ID
-3. **MCP Access**: OAuth access to the New Relic MCP server
+2. **New Relic API Key** *(optional)*: User API key — only needed for API-key-based auth, not required for OAuth
 
 ### Kiro Power Setup
 
