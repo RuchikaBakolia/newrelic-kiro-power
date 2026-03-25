@@ -8,7 +8,7 @@ author: "New Relic"
 
 # Onboarding
 
-Before proceeding, let the user know that the MCP server is currently in preview and they may need to request access by visiting https://mcp.newrelic.com/
+Before proceeding, let the user know that the MCP server is currently in preview. For access enablement steps, follow the [New Relic MCP documentation](https://docs.newrelic.com/docs/agentic-ai/mcp/overview/)
 
 # Overview
 
@@ -676,4 +676,6 @@ The four golden signals for service health:
 **Connection:** OAuth-based MCP server with either User API Key or OAuth authentication.  
 **Source:** Official New Relic  
 **License:** Apache 2.0  
-**Documentation:** https://docs.newrelic.com/
+**Documentation:** [docs.newrelic.com](https://docs.newrelic.com/docs/agentic-ai/mcp/overview/)  
+**Support Email:** partnerships@newrelic.com  
+**GitHub:** [github.com/newrelic-partners/newrelic-kiro-power](https://github.com/newrelic-partners/newrelic-kiro-power)
